@@ -1,647 +1,631 @@
 {
-  "stale_branches": {
-    "fabricerosset/astranvil-games-site/codex/textes-classeur": {
+  "prs": {
+    "fabricerosset/astranvil-games-site/#121": {
+      "head_branch": "codex/architecture-refresh-20261109",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/121",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/150",
-      "number": 150,
-      "merged_at": "2026-11-13T09:33:14Z",
-      "title": "Corriger les textes du portail",
-      "head_branch": "codex/textes-classeur",
-      "repo": "fabricerosset/astranvil-games-site"
+      "created_at": "2026-11-09T20:04:36Z",
+      "number": 121,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: align architecture map with gateway behavior"
     },
-    "fabricerosset/JDM-v3/codex/static-artifact-cleanup": {
+    "fabricerosset/HeroQuestOnline/#39": {
+      "head_branch": "codex/shared-room-erasure",
+      "url": "https://github.com/fabricerosset/HeroQuestOnline/pull/39",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/JDM-v3/pull/13",
-      "number": 13,
-      "merged_at": "2026-10-30T03:36:15Z",
-      "title": "build: exclude non-runtime files from web release",
-      "head_branch": "codex/static-artifact-cleanup",
-      "repo": "fabricerosset/JDM-v3"
+      "created_at": "2026-10-31T03:29:04Z",
+      "number": 39,
+      "repo": "fabricerosset/HeroQuestOnline",
+      "title": "Prepare shared-room handoff for account erasure"
+    },
+    "fabricerosset/blssed-by-rpp-template/#5": {
+      "head_branch": "kiro/bc04-course-notes",
+      "url": "https://github.com/fabricerosset/blssed-by-rpp-template/pull/5",
+      "author": "fabricerosset",
+      "created_at": "2026-10-24T14:41:42Z",
+      "number": 5,
+      "repo": "fabricerosset/blssed-by-rpp-template",
+      "title": "Add BC04 mix/mastering course summary (steering)"
+    },
+    "fabricerosset/FAFC-01/#2": {
+      "head_branch": "wp-002-conceptual-screen",
+      "url": "https://github.com/fabricerosset/FAFC-01/pull/2",
+      "author": "fabricerosset",
+      "created_at": "2026-10-20T12:07:12Z",
+      "number": 2,
+      "repo": "fabricerosset/FAFC-01",
+      "title": "WP-002/003: conceptual feasibility, evidence and development-route brief"
+    },
+    "fabricerosset/PokeNinjaGo/#39": {
+      "head_branch": "codex/pokemon-comfyui-sprites",
+      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/39",
+      "author": "fabricerosset",
+      "created_at": "2026-10-03T02:29:05Z",
+      "number": 39,
+      "repo": "fabricerosset/PokeNinjaGo",
+      "title": "Produce nine ComfyUI poses for all 151 Kanto Pokemon"
+    },
+    "fabricerosset/app-portal/#59": {
+      "head_branch": "kiro/remove-dev-games",
+      "url": "https://github.com/fabricerosset/app-portal/pull/59",
+      "author": "fabricerosset",
+      "created_at": "2026-11-11T22:01:55Z",
+      "number": 59,
+      "repo": "fabricerosset/app-portal",
+      "title": "AppsDev : retirer les jeux du registre de développement"
+    }
+  },
+  "stale_branches": {
+    "fabricerosset/astranvil-games-site/codex/submission-backup-retention": {
+      "head_branch": "codex/submission-backup-retention",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/40",
+      "author": "fabricerosset",
+      "number": 40,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: isolate submission backups with retention",
+      "merged_at": "2026-10-30T03:28:48Z"
     },
     "fabricerosset/astranvil-games-site/codex/submission-erasure-atomic": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/34",
-      "number": 34,
-      "merged_at": "2026-10-29T23:40:16Z",
-      "title": "fix: make submission erasure auditable atomically",
       "head_branch": "codex/submission-erasure-atomic",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-isolated-candidate-builder": {
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/34",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/JDM-v3/pull/15",
-      "number": 15,
-      "merged_at": "2026-10-30T04:00:32Z",
-      "title": "build: prepare isolated JDM web candidate",
-      "head_branch": "codex/jdm-isolated-candidate-builder",
-      "repo": "fabricerosset/JDM-v3"
-    },
-    "fabricerosset/PokemonChessOnline/codex/chess-json-metric-classification": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokemonChessOnline/pull/52",
-      "number": 52,
-      "merged_at": "2026-10-30T04:19:24Z",
-      "title": "fix: classify Chess provider JSON failures",
-      "head_branch": "codex/chess-json-metric-classification",
-      "repo": "fabricerosset/PokemonChessOnline"
-    },
-    "fabricerosset/astranvil-games-site/codex/third-party-subdomain-design": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/39",
-      "number": 39,
-      "merged_at": "2026-10-30T02:53:57Z",
-      "title": "docs: design isolated game subdomains",
-      "head_branch": "codex/third-party-subdomain-design",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-candidate-reproducibility": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/JDM-v3/pull/16",
-      "number": 16,
-      "merged_at": "2026-10-30T04:10:30Z",
-      "title": "build: make JDM candidate hashes reproducible",
-      "head_branch": "codex/jdm-candidate-reproducibility",
-      "repo": "fabricerosset/JDM-v3"
-    },
-    "fabricerosset/PokeNinjaGo/codex/fix-prototype-catalog-manifest": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/84",
-      "number": 84,
-      "merged_at": "2026-11-03T04:55:45Z",
-      "title": "fix: restore prototype catalog integrity",
-      "head_branch": "codex/fix-prototype-catalog-manifest",
-      "repo": "fabricerosset/PokeNinjaGo"
-    },
-    "fabricerosset/Neravald/codex/wizard-spellbook": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/Neravald/pull/13",
-      "number": 13,
-      "merged_at": "2026-11-13T16:23:10Z",
-      "title": "feat: validate wizard spellbook learning and preparation",
-      "head_branch": "codex/wizard-spellbook",
-      "repo": "fabricerosset/Neravald"
-    },
-    "fabricerosset/astranvil-games-site/codex/game-service-release-safety": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/44",
-      "number": 44,
-      "merged_at": "2026-10-30T03:56:53Z",
-      "title": "docs: safeguard game service release links",
-      "head_branch": "codex/game-service-release-safety",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/PokemonChessOnline/codex/chess-reasoning-token-budget": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokemonChessOnline/pull/51",
-      "number": 51,
-      "merged_at": "2026-10-30T03:42:09Z",
-      "title": "fix: allow reasoning budget for Chess analysis",
-      "head_branch": "codex/chess-reasoning-token-budget",
-      "repo": "fabricerosset/PokemonChessOnline"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-root-preview-qa": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/JDM-v3/pull/14",
-      "number": 14,
-      "merged_at": "2026-10-30T03:49:47Z",
-      "title": "test: verify JDM at separate-origin root",
-      "head_branch": "codex/jdm-root-preview-qa",
-      "repo": "fabricerosset/JDM-v3"
-    },
-    "fabricerosset/astranvil-games-site/codex/gateway-response-metadata": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/36",
-      "number": 36,
-      "merged_at": "2026-10-29T23:44:17Z",
-      "title": "feat: return validated AI gateway usage metadata",
-      "head_branch": "codex/gateway-response-metadata",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/PokeNinjaGo/codex/playtest-improvements": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/22",
-      "number": 22,
-      "merged_at": "2026-08-24T09:53:13Z",
-      "title": "feat: implement validated playtest improvements",
-      "head_branch": "codex/playtest-improvements",
-      "repo": "fabricerosset/PokeNinjaGo"
-    },
-    "fabricerosset/astranvil-games-site/codex/jdm-candidate-evidence": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/46",
-      "number": 46,
-      "merged_at": "2026-10-30T04:22:40Z",
-      "title": "docs: record reproducible JDM candidate",
-      "head_branch": "codex/jdm-candidate-evidence",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/app-portal/codex/astranvil-prod-games-cutover": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/app-portal/pull/56",
-      "number": 56,
-      "merged_at": "2026-10-28T09:24:19Z",
-      "title": "Remove game deployments from AppsProd portal",
-      "head_branch": "codex/astranvil-prod-games-cutover",
-      "repo": "fabricerosset/app-portal"
-    },
-    "fabricerosset/astranvil-games-site/codex/community-official-space": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/78",
-      "number": 78,
-      "merged_at": "2026-11-01T20:21:26Z",
-      "title": "feat: provision the official Community space",
-      "head_branch": "codex/community-official-space",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/astranvil-games-site/codex/metrics-service-templates": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/35",
-      "number": 35,
-      "merged_at": "2026-10-29T23:41:40Z",
-      "title": "docs: prepare isolated metrics service templates",
-      "head_branch": "codex/metrics-service-templates",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/astranvil-games-site/codex/submission-notice-review": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/45",
-      "number": 45,
-      "merged_at": "2026-10-30T04:02:15Z",
-      "title": "docs: prepare approved submission notice details",
-      "head_branch": "codex/submission-notice-review",
-      "repo": "fabricerosset/astranvil-games-site"
+      "number": 34,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "fix: make submission erasure auditable atomically",
+      "merged_at": "2026-10-29T23:40:16Z"
     },
     "fabricerosset/astranvil-games-site/codex/ai-activation-and-jdm-pilot": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/43",
-      "number": 43,
-      "merged_at": "2026-10-30T03:48:54Z",
-      "title": "docs: record AI activation and JDM pilot",
       "head_branch": "codex/ai-activation-and-jdm-pilot",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/PokemonChessOnline/codex/groq-gateway-client": {
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/43",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokemonChessOnline/pull/50",
-      "number": 50,
-      "merged_at": "2026-10-30T03:33:12Z",
-      "title": "feat: route Chess Groq calls through gateway",
-      "head_branch": "codex/groq-gateway-client",
-      "repo": "fabricerosset/PokemonChessOnline"
+      "number": 43,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: record AI activation and JDM pilot",
+      "merged_at": "2026-10-30T03:48:54Z"
     },
-    "fabricerosset/astranvil-games-site/codex/submission-privacy-draft": {
+    "fabricerosset/astranvil-games-site/codex/gateway-response-metadata": {
+      "head_branch": "codex/gateway-response-metadata",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/36",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/38",
-      "number": 38,
-      "merged_at": "2026-10-29T23:54:26Z",
-      "title": "docs: prepare submission privacy notice",
-      "head_branch": "codex/submission-privacy-draft",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/PokeNinjaGo/codex/fix-windows-export": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/27",
-      "number": 27,
-      "merged_at": "2026-08-31T21:17:31Z",
-      "title": "fix: keep Windows export dependencies",
-      "head_branch": "codex/fix-windows-export",
-      "repo": "fabricerosset/PokeNinjaGo"
+      "number": 36,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: return validated AI gateway usage metadata",
+      "merged_at": "2026-10-29T23:44:17Z"
     },
     "fabricerosset/Neravald/codex/camp-spell-training": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/Neravald/pull/11",
-      "number": 11,
-      "merged_at": "2026-11-13T15:27:21Z",
-      "title": "feat: connect camp sheets and feat spells to training",
       "head_branch": "codex/camp-spell-training",
-      "repo": "fabricerosset/Neravald"
-    },
-    "fabricerosset/astranvil-games-site/codex/third-party-review-gates": {
+      "url": "https://github.com/fabricerosset/Neravald/pull/11",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/37",
-      "number": 37,
-      "merged_at": "2026-10-29T23:46:12Z",
-      "title": "feat: require third-party review checks",
-      "head_branch": "codex/third-party-review-gates",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/PokeNinjaGo/codex/product-split-m0": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/79",
-      "number": 79,
-      "merged_at": "2026-11-03T04:55:37Z",
-      "title": "docs: consolidate VS and RPG product specifications",
-      "head_branch": "codex/product-split-m0",
-      "repo": "fabricerosset/PokeNinjaGo"
-    },
-    "fabricerosset/astranvil-games-site/codex/groq-gateway-transport": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/41",
-      "number": 41,
-      "merged_at": "2026-10-30T03:33:41Z",
-      "title": "feat: add private Groq gateway transport",
-      "head_branch": "codex/groq-gateway-transport",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/Neravald/codex/grips-helmets-facial-blends": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/Neravald/pull/22",
-      "number": 22,
-      "merged_at": "2026-11-13T22:04:01Z",
-      "title": "feat: refine weapon grips and facial transitions",
-      "head_branch": "codex/grips-helmets-facial-blends",
-      "repo": "fabricerosset/Neravald"
-    },
-    "fabricerosset/FAFC-01/wp-001-mission-applicability": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/FAFC-01/pull/1",
-      "number": 1,
-      "merged_at": "2026-10-20T11:54:58Z",
-      "title": "WP-001: mission definition and French/EU applicability review",
-      "head_branch": "wp-001-mission-applicability",
-      "repo": "fabricerosset/FAFC-01"
-    },
-    "fabricerosset/astranvil-games-site/codex/community-production-backups": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/77",
-      "number": 77,
-      "merged_at": "2026-11-01T20:15:30Z",
-      "title": "fix: back up Community SQLite safely",
-      "head_branch": "codex/community-production-backups",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/astranvil-games-site/codex/submission-backup-retention": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/40",
-      "number": 40,
-      "merged_at": "2026-10-30T03:28:48Z",
-      "title": "feat: isolate submission backups with retention",
-      "head_branch": "codex/submission-backup-retention",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-normalize-web-html": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/JDM-v3/pull/17",
-      "number": 17,
-      "merged_at": "2026-10-30T04:20:41Z",
-      "title": "build: normalize JDM web release contents",
-      "head_branch": "codex/jdm-normalize-web-html",
-      "repo": "fabricerosset/JDM-v3"
+      "number": 11,
+      "repo": "fabricerosset/Neravald",
+      "title": "feat: connect camp sheets and feat spells to training",
+      "merged_at": "2026-11-13T15:27:21Z"
     },
     "fabricerosset/astranvil-games-site/codex/community-discussions": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/72",
-      "number": 72,
-      "merged_at": "2026-11-01T18:44:48Z",
-      "title": "feat: add community discussions and moderation",
       "head_branch": "codex/community-discussions",
-      "repo": "fabricerosset/astranvil-games-site"
-    },
-    "fabricerosset/Neravald/codex/camp-spells-delivery": {
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/72",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/Neravald/pull/12",
-      "number": 12,
-      "merged_at": "2026-11-13T15:30:58Z",
-      "title": "docs: record camp spell rollout verification",
-      "head_branch": "codex/camp-spells-delivery",
-      "repo": "fabricerosset/Neravald"
+      "number": 72,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: add community discussions and moderation",
+      "merged_at": "2026-11-01T18:44:48Z"
     },
-    "fabricerosset/astranvil-games-site/codex/submission-per-client-limit": {
+    "fabricerosset/astranvil-games-site/codex/submission-notice-review": {
+      "head_branch": "codex/submission-notice-review",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/45",
       "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/42",
-      "number": 42,
-      "merged_at": "2026-10-30T03:45:40Z",
-      "title": "feat: limit submission attempts per visitor",
-      "head_branch": "codex/submission-per-client-limit",
-      "repo": "fabricerosset/astranvil-games-site"
+      "number": 45,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: prepare approved submission notice details",
+      "merged_at": "2026-10-30T04:02:15Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/submission-privacy-draft": {
+      "head_branch": "codex/submission-privacy-draft",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/38",
+      "author": "fabricerosset",
+      "number": 38,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: prepare submission privacy notice",
+      "merged_at": "2026-10-29T23:54:26Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/third-party-review-gates": {
+      "head_branch": "codex/third-party-review-gates",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/37",
+      "author": "fabricerosset",
+      "number": 37,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: require third-party review checks",
+      "merged_at": "2026-10-29T23:46:12Z"
+    },
+    "fabricerosset/PokeNinjaGo/codex/playtest-improvements": {
+      "head_branch": "codex/playtest-improvements",
+      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/22",
+      "author": "fabricerosset",
+      "number": 22,
+      "repo": "fabricerosset/PokeNinjaGo",
+      "title": "feat: implement validated playtest improvements",
+      "merged_at": "2026-08-24T09:53:13Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/groq-gateway-transport": {
+      "head_branch": "codex/groq-gateway-transport",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/41",
+      "author": "fabricerosset",
+      "number": 41,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: add private Groq gateway transport",
+      "merged_at": "2026-10-30T03:33:41Z"
+    },
+    "fabricerosset/PokemonChessOnline/codex/chess-reasoning-token-budget": {
+      "head_branch": "codex/chess-reasoning-token-budget",
+      "url": "https://github.com/fabricerosset/PokemonChessOnline/pull/51",
+      "author": "fabricerosset",
+      "number": 51,
+      "repo": "fabricerosset/PokemonChessOnline",
+      "title": "fix: allow reasoning budget for Chess analysis",
+      "merged_at": "2026-10-30T03:42:09Z"
+    },
+    "fabricerosset/app-portal/codex/astranvil-prod-games-cutover": {
+      "head_branch": "codex/astranvil-prod-games-cutover",
+      "url": "https://github.com/fabricerosset/app-portal/pull/56",
+      "author": "fabricerosset",
+      "number": 56,
+      "repo": "fabricerosset/app-portal",
+      "title": "Remove game deployments from AppsProd portal",
+      "merged_at": "2026-10-28T09:24:19Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/jdm-candidate-evidence": {
+      "head_branch": "codex/jdm-candidate-evidence",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/46",
+      "author": "fabricerosset",
+      "number": 46,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: record reproducible JDM candidate",
+      "merged_at": "2026-10-30T04:22:40Z"
+    },
+    "fabricerosset/JDM-v3/codex/static-artifact-cleanup": {
+      "head_branch": "codex/static-artifact-cleanup",
+      "url": "https://github.com/fabricerosset/JDM-v3/pull/13",
+      "author": "fabricerosset",
+      "number": 13,
+      "repo": "fabricerosset/JDM-v3",
+      "title": "build: exclude non-runtime files from web release",
+      "merged_at": "2026-10-30T03:36:15Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/game-service-release-safety": {
+      "head_branch": "codex/game-service-release-safety",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/44",
+      "author": "fabricerosset",
+      "number": 44,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: safeguard game service release links",
+      "merged_at": "2026-10-30T03:56:53Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/metrics-service-templates": {
+      "head_branch": "codex/metrics-service-templates",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/35",
+      "author": "fabricerosset",
+      "number": 35,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: prepare isolated metrics service templates",
+      "merged_at": "2026-10-29T23:41:40Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/community-official-space": {
+      "head_branch": "codex/community-official-space",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/78",
+      "author": "fabricerosset",
+      "number": 78,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: provision the official Community space",
+      "merged_at": "2026-11-01T20:21:26Z"
+    },
+    "fabricerosset/PokemonChessOnline/codex/groq-gateway-client": {
+      "head_branch": "codex/groq-gateway-client",
+      "url": "https://github.com/fabricerosset/PokemonChessOnline/pull/50",
+      "author": "fabricerosset",
+      "number": 50,
+      "repo": "fabricerosset/PokemonChessOnline",
+      "title": "feat: route Chess Groq calls through gateway",
+      "merged_at": "2026-10-30T03:33:12Z"
+    },
+    "fabricerosset/PokeNinjaGo/codex/product-split-m0": {
+      "head_branch": "codex/product-split-m0",
+      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/79",
+      "author": "fabricerosset",
+      "number": 79,
+      "repo": "fabricerosset/PokeNinjaGo",
+      "title": "docs: consolidate VS and RPG product specifications",
+      "merged_at": "2026-11-03T04:55:37Z"
     },
     "fabricerosset/global-steering/codex/gestion-acces-portail": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/global-steering/pull/32",
-      "number": 32,
-      "merged_at": "2026-11-13T09:44:16Z",
-      "title": "Clarifier la gestion des accès depuis les portails",
       "head_branch": "codex/gestion-acces-portail",
-      "repo": "fabricerosset/global-steering"
+      "url": "https://github.com/fabricerosset/global-steering/pull/32",
+      "author": "fabricerosset",
+      "number": 32,
+      "repo": "fabricerosset/global-steering",
+      "title": "Clarifier la gestion des accès depuis les portails",
+      "merged_at": "2026-11-13T09:44:16Z"
+    },
+    "fabricerosset/Neravald/codex/wizard-spellbook": {
+      "head_branch": "codex/wizard-spellbook",
+      "url": "https://github.com/fabricerosset/Neravald/pull/13",
+      "author": "fabricerosset",
+      "number": 13,
+      "repo": "fabricerosset/Neravald",
+      "title": "feat: validate wizard spellbook learning and preparation",
+      "merged_at": "2026-11-13T16:23:10Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/third-party-subdomain-design": {
+      "head_branch": "codex/third-party-subdomain-design",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/39",
+      "author": "fabricerosset",
+      "number": 39,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "docs: design isolated game subdomains",
+      "merged_at": "2026-10-30T02:53:57Z"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-normalize-web-html": {
+      "head_branch": "codex/jdm-normalize-web-html",
+      "url": "https://github.com/fabricerosset/JDM-v3/pull/17",
+      "author": "fabricerosset",
+      "number": 17,
+      "repo": "fabricerosset/JDM-v3",
+      "title": "build: normalize JDM web release contents",
+      "merged_at": "2026-10-30T04:20:41Z"
+    },
+    "fabricerosset/PokeNinjaGo/codex/fix-windows-export": {
+      "head_branch": "codex/fix-windows-export",
+      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/27",
+      "author": "fabricerosset",
+      "number": 27,
+      "repo": "fabricerosset/PokeNinjaGo",
+      "title": "fix: keep Windows export dependencies",
+      "merged_at": "2026-08-31T21:17:31Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/textes-classeur": {
+      "head_branch": "codex/textes-classeur",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/150",
+      "author": "fabricerosset",
+      "number": 150,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "Corriger les textes du portail",
+      "merged_at": "2026-11-13T09:33:14Z"
+    },
+    "fabricerosset/Neravald/codex/grips-helmets-facial-blends": {
+      "head_branch": "codex/grips-helmets-facial-blends",
+      "url": "https://github.com/fabricerosset/Neravald/pull/22",
+      "author": "fabricerosset",
+      "number": 22,
+      "repo": "fabricerosset/Neravald",
+      "title": "feat: refine weapon grips and facial transitions",
+      "merged_at": "2026-11-13T22:04:01Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/submission-per-client-limit": {
+      "head_branch": "codex/submission-per-client-limit",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/42",
+      "author": "fabricerosset",
+      "number": 42,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "feat: limit submission attempts per visitor",
+      "merged_at": "2026-10-30T03:45:40Z"
+    },
+    "fabricerosset/Neravald/codex/camp-spells-delivery": {
+      "head_branch": "codex/camp-spells-delivery",
+      "url": "https://github.com/fabricerosset/Neravald/pull/12",
+      "author": "fabricerosset",
+      "number": 12,
+      "repo": "fabricerosset/Neravald",
+      "title": "docs: record camp spell rollout verification",
+      "merged_at": "2026-11-13T15:30:58Z"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-candidate-reproducibility": {
+      "head_branch": "codex/jdm-candidate-reproducibility",
+      "url": "https://github.com/fabricerosset/JDM-v3/pull/16",
+      "author": "fabricerosset",
+      "number": 16,
+      "repo": "fabricerosset/JDM-v3",
+      "title": "build: make JDM candidate hashes reproducible",
+      "merged_at": "2026-10-30T04:10:30Z"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-root-preview-qa": {
+      "head_branch": "codex/jdm-root-preview-qa",
+      "url": "https://github.com/fabricerosset/JDM-v3/pull/14",
+      "author": "fabricerosset",
+      "number": 14,
+      "repo": "fabricerosset/JDM-v3",
+      "title": "test: verify JDM at separate-origin root",
+      "merged_at": "2026-10-30T03:49:47Z"
+    },
+    "fabricerosset/astranvil-games-site/codex/community-production-backups": {
+      "head_branch": "codex/community-production-backups",
+      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/77",
+      "author": "fabricerosset",
+      "number": 77,
+      "repo": "fabricerosset/astranvil-games-site",
+      "title": "fix: back up Community SQLite safely",
+      "merged_at": "2026-11-01T20:15:30Z"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-isolated-candidate-builder": {
+      "head_branch": "codex/jdm-isolated-candidate-builder",
+      "url": "https://github.com/fabricerosset/JDM-v3/pull/15",
+      "author": "fabricerosset",
+      "number": 15,
+      "repo": "fabricerosset/JDM-v3",
+      "title": "build: prepare isolated JDM web candidate",
+      "merged_at": "2026-10-30T04:00:32Z"
+    },
+    "fabricerosset/FAFC-01/wp-001-mission-applicability": {
+      "head_branch": "wp-001-mission-applicability",
+      "url": "https://github.com/fabricerosset/FAFC-01/pull/1",
+      "author": "fabricerosset",
+      "number": 1,
+      "repo": "fabricerosset/FAFC-01",
+      "title": "WP-001: mission definition and French/EU applicability review",
+      "merged_at": "2026-10-20T11:54:58Z"
+    },
+    "fabricerosset/PokeNinjaGo/codex/fix-prototype-catalog-manifest": {
+      "head_branch": "codex/fix-prototype-catalog-manifest",
+      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/84",
+      "author": "fabricerosset",
+      "number": 84,
+      "repo": "fabricerosset/PokeNinjaGo",
+      "title": "fix: restore prototype catalog integrity",
+      "merged_at": "2026-11-03T04:55:45Z"
+    },
+    "fabricerosset/PokemonChessOnline/codex/chess-json-metric-classification": {
+      "head_branch": "codex/chess-json-metric-classification",
+      "url": "https://github.com/fabricerosset/PokemonChessOnline/pull/52",
+      "author": "fabricerosset",
+      "number": 52,
+      "repo": "fabricerosset/PokemonChessOnline",
+      "title": "fix: classify Chess provider JSON failures",
+      "merged_at": "2026-10-30T04:19:24Z"
     }
   },
   "branches": {
-    "fabricerosset/blssed-by-rpp-template/kiro/bc04-course-notes": {
+    "fabricerosset/astranvil-games-site/codex/submission-backup-retention": {
       "owner": "fabricerosset",
-      "purpose": "Add BC04 mix/mastering course summary (steering)",
-      "repo": "fabricerosset/blssed-by-rpp-template",
-      "branch": "kiro/bc04-course-notes",
-      "purpose_source": "Open PR #5"
-    },
-    "fabricerosset/PokeNinjaGo/codex/m3b-online-duel": {
-      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/m3b-online-duel",
+      "branch": "codex/submission-backup-retention",
       "purpose_source": "Latest commit author"
     },
     "fabricerosset/astranvil-games-site/codex/submission-erasure-atomic": {
       "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
       "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
       "branch": "codex/submission-erasure-atomic",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/metrics-service-templates": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/metrics-service-templates",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/PokemonChessOnline/codex/chess-json-metric-classification": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokemonChessOnline",
-      "branch": "codex/chess-json-metric-classification",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/third-party-subdomain-design": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/third-party-subdomain-design",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-candidate-reproducibility": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/JDM-v3",
-      "branch": "codex/jdm-candidate-reproducibility",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/gateway-response-metadata": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/gateway-response-metadata",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/game-service-release-safety": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/game-service-release-safety",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/PokemonChessOnline/codex/chess-reasoning-token-budget": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokemonChessOnline",
-      "branch": "codex/chess-reasoning-token-budget",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-root-preview-qa": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/JDM-v3",
-      "branch": "codex/jdm-root-preview-qa",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/submission-per-client-limit": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/submission-per-client-limit",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/PokeNinjaGo/codex/playtest-improvements": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/playtest-improvements",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/jdm-candidate-evidence": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/jdm-candidate-evidence",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/community-official-space": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/community-official-space",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-studio/kiro/archive-readme": {
-      "owner": "fabricerosset",
-      "purpose": "README : renvoi vers global-steering avant archivage",
-      "repo": "fabricerosset/astranvil-games-studio",
-      "branch": "kiro/archive-readme",
-      "purpose_source": "Open PR #1"
-    },
-    "fabricerosset/astranvil-games-site/codex/submission-notice-review": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/submission-notice-review",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/astranvil-games-site/codex/submission-privacy-draft": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/submission-privacy-draft",
       "purpose_source": "Latest commit author"
     },
     "fabricerosset/astranvil-games-site/codex/ai-activation-and-jdm-pilot": {
       "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
       "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
       "branch": "codex/ai-activation-and-jdm-pilot",
       "purpose_source": "Latest commit author"
     },
-    "fabricerosset/PokemonChessOnline/codex/groq-gateway-client": {
+    "fabricerosset/astranvil-games-site/codex/gateway-response-metadata": {
       "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokemonChessOnline",
-      "branch": "codex/groq-gateway-client",
+      "branch": "codex/gateway-response-metadata",
       "purpose_source": "Latest commit author"
     },
-    "fabricerosset/JDM-v3/codex/jdm-isolated-candidate-builder": {
+    "fabricerosset/astranvil-games-site/codex/submission-privacy-draft": {
       "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
       "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/submission-privacy-draft",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/astranvil-games-site/codex/community-discussions": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/community-discussions",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/astranvil-games-site/codex/submission-notice-review": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/submission-notice-review",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/blssed-by-rpp-template/kiro/bc04-course-notes": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/blssed-by-rpp-template",
+      "purpose": "Add BC04 mix/mastering course summary (steering)",
+      "branch": "kiro/bc04-course-notes",
+      "purpose_source": "Open PR #5"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-normalize-web-html": {
+      "owner": "fabricerosset",
       "repo": "fabricerosset/JDM-v3",
-      "branch": "codex/jdm-isolated-candidate-builder",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/PokeNinjaGo/codex/fix-windows-export": {
-      "owner": "fabricerosset",
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/fix-windows-export",
+      "branch": "codex/jdm-normalize-web-html",
       "purpose_source": "Latest commit author"
     },
     "fabricerosset/astranvil-games-site/codex/third-party-review-gates": {
       "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
       "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
       "branch": "codex/third-party-review-gates",
       "purpose_source": "Latest commit author"
     },
-    "fabricerosset/JDM-v3/codex/static-artifact-cleanup": {
+    "fabricerosset/HeroQuestOnline/codex/shared-room-erasure": {
       "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/JDM-v3",
-      "branch": "codex/static-artifact-cleanup",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/PokeNinjaGo/codex/m2b-clean-builds": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/m2b-clean-builds",
-      "purpose_source": "Latest commit author"
+      "repo": "fabricerosset/HeroQuestOnline",
+      "purpose": "Prepare shared-room handoff for account erasure",
+      "branch": "codex/shared-room-erasure",
+      "purpose_source": "Open PR #39"
     },
     "fabricerosset/astranvil-games-site/codex/groq-gateway-transport": {
       "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
       "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
       "branch": "codex/groq-gateway-transport",
       "purpose_source": "Latest commit author"
     },
-    "fabricerosset/astranvil-games-site/codex/architecture-refresh-20261109": {
-      "owner": "fabricerosset",
-      "purpose": "docs: align architecture map with gateway behavior",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/architecture-refresh-20261109",
-      "purpose_source": "Open PR #121"
-    },
     "fabricerosset/FAFC-01/wp-002-conceptual-screen": {
       "owner": "fabricerosset",
-      "purpose": "WP-002/003: conceptual feasibility, evidence and development-route brief",
       "repo": "fabricerosset/FAFC-01",
+      "purpose": "WP-002/003: conceptual feasibility, evidence and development-route brief",
       "branch": "wp-002-conceptual-screen",
       "purpose_source": "Open PR #2"
     },
-    "fabricerosset/astranvil-games-site/codex/community-production-backups": {
+    "fabricerosset/PokemonChessOnline/codex/chess-reasoning-token-budget": {
       "owner": "fabricerosset",
+      "repo": "fabricerosset/PokemonChessOnline",
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/community-production-backups",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/PokeNinjaGo/codex/pokemon-comfyui-sprites": {
-      "owner": "fabricerosset",
-      "purpose": "Produce nine ComfyUI poses for all 151 Kanto Pokemon",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/pokemon-comfyui-sprites",
-      "purpose_source": "Open PR #39"
-    },
-    "fabricerosset/astranvil-games-site/codex/submission-backup-retention": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/submission-backup-retention",
-      "purpose_source": "Latest commit author"
-    },
-    "fabricerosset/JDM-v3/codex/jdm-normalize-web-html": {
-      "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/JDM-v3",
-      "branch": "codex/jdm-normalize-web-html",
+      "branch": "codex/chess-reasoning-token-budget",
       "purpose_source": "Latest commit author"
     },
     "fabricerosset/app-portal/kiro/remove-dev-games": {
       "owner": "fabricerosset",
-      "purpose": "AppsDev : retirer les jeux du registre de développement",
       "repo": "fabricerosset/app-portal",
+      "purpose": "AppsDev : retirer les jeux du registre de développement",
       "branch": "kiro/remove-dev-games",
       "purpose_source": "Open PR #59"
     },
-    "fabricerosset/HeroQuestOnline/codex/shared-room-erasure": {
+    "fabricerosset/astranvil-games-site/codex/jdm-candidate-evidence": {
       "owner": "fabricerosset",
-      "purpose": "Prepare shared-room handoff for account erasure",
-      "repo": "fabricerosset/HeroQuestOnline",
-      "branch": "codex/shared-room-erasure",
-      "purpose_source": "Open PR #39"
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/jdm-candidate-evidence",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/JDM-v3/codex/static-artifact-cleanup": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/JDM-v3",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/static-artifact-cleanup",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/astranvil-games-site/codex/game-service-release-safety": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/game-service-release-safety",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/astranvil-games-site/codex/metrics-service-templates": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/metrics-service-templates",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/astranvil-games-site/codex/architecture-refresh-20261109": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "docs: align architecture map with gateway behavior",
+      "branch": "codex/architecture-refresh-20261109",
+      "purpose_source": "Open PR #121"
+    },
+    "fabricerosset/astranvil-games-site/codex/community-official-space": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/community-official-space",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/PokemonChessOnline/codex/groq-gateway-client": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/PokemonChessOnline",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/groq-gateway-client",
+      "purpose_source": "Latest commit author"
     },
     "fabricerosset/PokeNinjaGo/codex/fix-combat-redesign-fixture": {
       "owner": "fabricerosset",
-      "purpose": "No open PR; inferred from branch name",
       "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "No open PR; inferred from branch name",
       "branch": "codex/fix-combat-redesign-fixture",
       "purpose_source": "Latest commit author"
     },
-    "fabricerosset/astranvil-games-site/codex/community-discussions": {
+    "fabricerosset/PokeNinjaGo/codex/m3b-online-duel": {
       "owner": "fabricerosset",
+      "repo": "fabricerosset/PokeNinjaGo",
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/community-discussions",
+      "branch": "codex/m3b-online-duel",
       "purpose_source": "Latest commit author"
-    }
-  },
-  "prs": {
-    "fabricerosset/astranvil-games-studio/#1": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-studio/pull/1",
-      "number": 1,
-      "created_at": "2026-11-16T12:27:01Z",
-      "title": "README : renvoi vers global-steering avant archivage",
-      "head_branch": "kiro/archive-readme",
-      "repo": "fabricerosset/astranvil-games-studio"
     },
-    "fabricerosset/PokeNinjaGo/#39": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/PokeNinjaGo/pull/39",
-      "number": 39,
-      "created_at": "2026-10-03T02:29:05Z",
-      "title": "Produce nine ComfyUI poses for all 151 Kanto Pokemon",
-      "head_branch": "codex/pokemon-comfyui-sprites",
-      "repo": "fabricerosset/PokeNinjaGo"
+    "fabricerosset/astranvil-games-site/codex/third-party-subdomain-design": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/third-party-subdomain-design",
+      "purpose_source": "Latest commit author"
     },
-    "fabricerosset/FAFC-01/#2": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/FAFC-01/pull/2",
-      "number": 2,
-      "created_at": "2026-10-20T12:07:12Z",
-      "title": "WP-002/003: conceptual feasibility, evidence and development-route brief",
-      "head_branch": "wp-002-conceptual-screen",
-      "repo": "fabricerosset/FAFC-01"
+    "fabricerosset/PokeNinjaGo/codex/fix-windows-export": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/fix-windows-export",
+      "purpose_source": "Latest commit author"
     },
-    "fabricerosset/astranvil-games-site/#121": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/121",
-      "number": 121,
-      "created_at": "2026-11-09T20:04:36Z",
-      "title": "docs: align architecture map with gateway behavior",
-      "head_branch": "codex/architecture-refresh-20261109",
-      "repo": "fabricerosset/astranvil-games-site"
+    "fabricerosset/PokeNinjaGo/codex/m2b-clean-builds": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/m2b-clean-builds",
+      "purpose_source": "Latest commit author"
     },
-    "fabricerosset/app-portal/#59": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/app-portal/pull/59",
-      "number": 59,
-      "created_at": "2026-11-11T22:01:55Z",
-      "title": "AppsDev : retirer les jeux du registre de développement",
-      "head_branch": "kiro/remove-dev-games",
-      "repo": "fabricerosset/app-portal"
+    "fabricerosset/PokeNinjaGo/codex/pokemon-comfyui-sprites": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "Produce nine ComfyUI poses for all 151 Kanto Pokemon",
+      "branch": "codex/pokemon-comfyui-sprites",
+      "purpose_source": "Open PR #39"
     },
-    "fabricerosset/blssed-by-rpp-template/#5": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/blssed-by-rpp-template/pull/5",
-      "number": 5,
-      "created_at": "2026-10-24T14:41:42Z",
-      "title": "Add BC04 mix/mastering course summary (steering)",
-      "head_branch": "kiro/bc04-course-notes",
-      "repo": "fabricerosset/blssed-by-rpp-template"
+    "fabricerosset/astranvil-games-site/codex/submission-per-client-limit": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/submission-per-client-limit",
+      "purpose_source": "Latest commit author"
     },
-    "fabricerosset/HeroQuestOnline/#39": {
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/HeroQuestOnline/pull/39",
-      "number": 39,
-      "created_at": "2026-10-31T03:29:04Z",
-      "title": "Prepare shared-room handoff for account erasure",
-      "head_branch": "codex/shared-room-erasure",
-      "repo": "fabricerosset/HeroQuestOnline"
+    "fabricerosset/JDM-v3/codex/jdm-candidate-reproducibility": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/JDM-v3",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/jdm-candidate-reproducibility",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-root-preview-qa": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/JDM-v3",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/jdm-root-preview-qa",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/astranvil-games-site/codex/community-production-backups": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/astranvil-games-site",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/community-production-backups",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/JDM-v3/codex/jdm-isolated-candidate-builder": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/JDM-v3",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/jdm-isolated-candidate-builder",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/PokemonChessOnline/codex/chess-json-metric-classification": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/PokemonChessOnline",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/chess-json-metric-classification",
+      "purpose_source": "Latest commit author"
+    },
+    "fabricerosset/PokeNinjaGo/codex/playtest-improvements": {
+      "owner": "fabricerosset",
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/playtest-improvements",
+      "purpose_source": "Latest commit author"
     }
   }
 }
