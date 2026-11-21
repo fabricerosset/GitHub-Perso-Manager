@@ -1,77 +1,77 @@
 {
-  "stale_branches": {
-    "fabricerosset/HeroQuestOnline/codex/shared-room-erasure": {
-      "title": "Prepare shared-room handoff for account erasure",
-      "repo": "fabricerosset/HeroQuestOnline",
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/HeroQuestOnline/pull/39",
-      "merged_at": "2026-11-19T15:59:04Z",
-      "head_branch": "codex/shared-room-erasure",
-      "number": 39
-    },
-    "fabricerosset/app-portal/kiro/remove-dev-games": {
-      "title": "AppsDev : retirer les jeux du registre de développement",
-      "repo": "fabricerosset/app-portal",
-      "author": "fabricerosset",
-      "url": "https://github.com/fabricerosset/app-portal/pull/59",
-      "merged_at": "2026-11-19T15:58:59Z",
-      "head_branch": "kiro/remove-dev-games",
-      "number": 59
-    }
-  },
   "branches": {
-    "fabricerosset/PokeNinjaGo/codex/m2b-clean-builds": {
+    "fabricerosset/PokeNinjaGo/codex/m3b-online-duel": {
       "purpose_source": "Latest commit author",
+      "owner": "fabricerosset",
+      "branch": "codex/m3b-online-duel",
       "repo": "fabricerosset/PokeNinjaGo",
-      "purpose": "No open PR; inferred from branch name",
-      "branch": "codex/m2b-clean-builds",
-      "owner": "fabricerosset"
-    },
-    "fabricerosset/PokeNinjaGo/codex/pokemon-comfyui-sprites": {
-      "purpose_source": "Latest commit author",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "purpose": "No open PR; inferred from branch name",
-      "branch": "codex/pokemon-comfyui-sprites",
-      "owner": "fabricerosset"
+      "purpose": "No open PR; inferred from branch name"
     },
     "fabricerosset/blssed-by-rpp-template/kiro/bc04-course-notes": {
       "purpose_source": "Latest commit author",
-      "repo": "fabricerosset/blssed-by-rpp-template",
-      "purpose": "No open PR; inferred from branch name",
+      "owner": "fabricerosset",
       "branch": "kiro/bc04-course-notes",
-      "owner": "fabricerosset"
+      "repo": "fabricerosset/blssed-by-rpp-template",
+      "purpose": "No open PR; inferred from branch name"
     },
     "fabricerosset/PokeNinjaGo/codex/fix-combat-redesign-fixture": {
       "purpose_source": "Latest commit author",
-      "repo": "fabricerosset/PokeNinjaGo",
-      "purpose": "No open PR; inferred from branch name",
+      "owner": "fabricerosset",
       "branch": "codex/fix-combat-redesign-fixture",
-      "owner": "fabricerosset"
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "No open PR; inferred from branch name"
+    },
+    "fabricerosset/PokeNinjaGo/codex/m2b-clean-builds": {
+      "purpose_source": "Latest commit author",
+      "owner": "fabricerosset",
+      "branch": "codex/m2b-clean-builds",
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose": "No open PR; inferred from branch name"
     },
     "fabricerosset/FAFC-01/wp-002-conceptual-screen": {
       "purpose_source": "Open PR #2",
-      "repo": "fabricerosset/FAFC-01",
-      "purpose": "WP-002/003: conceptual feasibility, evidence and development-route brief",
+      "owner": "fabricerosset",
       "branch": "wp-002-conceptual-screen",
-      "owner": "fabricerosset"
+      "repo": "fabricerosset/FAFC-01",
+      "purpose": "WP-002/003: conceptual feasibility, evidence and development-route brief"
     },
-    "fabricerosset/PokeNinjaGo/codex/m3b-online-duel": {
+    "fabricerosset/PokeNinjaGo/codex/pokemon-comfyui-sprites": {
       "purpose_source": "Latest commit author",
+      "owner": "fabricerosset",
+      "branch": "codex/pokemon-comfyui-sprites",
       "repo": "fabricerosset/PokeNinjaGo",
-      "purpose": "No open PR; inferred from branch name",
-      "branch": "codex/m3b-online-duel",
-      "owner": "fabricerosset"
+      "purpose": "No open PR; inferred from branch name"
+    }
+  },
+  "stale_branches": {
+    "fabricerosset/app-portal/kiro/remove-dev-games": {
+      "repo": "fabricerosset/app-portal",
+      "number": 59,
+      "author": "fabricerosset",
+      "url": "https://github.com/fabricerosset/app-portal/pull/59",
+      "head_branch": "kiro/remove-dev-games",
+      "title": "AppsDev : retirer les jeux du registre de développement",
+      "merged_at": "2026-11-19T15:58:59Z"
+    },
+    "fabricerosset/HeroQuestOnline/codex/shared-room-erasure": {
+      "repo": "fabricerosset/HeroQuestOnline",
+      "number": 39,
+      "author": "fabricerosset",
+      "url": "https://github.com/fabricerosset/HeroQuestOnline/pull/39",
+      "head_branch": "codex/shared-room-erasure",
+      "title": "Prepare shared-room handoff for account erasure",
+      "merged_at": "2026-11-19T15:59:04Z"
     }
   },
   "prs": {
     "fabricerosset/FAFC-01/#2": {
-      "title": "WP-002/003: conceptual feasibility, evidence and development-route brief",
-      "repo": "fabricerosset/FAFC-01",
       "created_at": "2026-10-20T12:07:12Z",
+      "repo": "fabricerosset/FAFC-01",
+      "number": 2,
       "author": "fabricerosset",
       "url": "https://github.com/fabricerosset/FAFC-01/pull/2",
       "head_branch": "wp-002-conceptual-screen",
-      "number": 2
+      "title": "WP-002/003: conceptual feasibility, evidence and development-route brief"
     }
   }
 }
