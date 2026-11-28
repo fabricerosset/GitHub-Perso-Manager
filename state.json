@@ -1,611 +1,1412 @@
 {
-  "prs": {
-    "fabricerosset/ninjago-elemental-clash/#3": {
-      "number": 3,
-      "author": "fabricerosset",
-      "head_branch": "codex/nec-j4-chen-arrival",
-      "title": "Add the opening Story visit, fight, and decision",
-      "repo": "fabricerosset/ninjago-elemental-clash",
-      "created_at": "2026-11-27T14:38:01Z",
-      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/3"
-    },
-    "fabricerosset/ninjago-elemental-clash/#2": {
-      "number": 2,
-      "author": "fabricerosset",
-      "head_branch": "codex/nec-j3-local-progress",
-      "title": "Teste la persistance Histoire et IndexedDB avec Astranvil",
-      "repo": "fabricerosset/ninjago-elemental-clash",
-      "created_at": "2026-11-27T13:53:06Z",
-      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/2"
-    },
-    "fabricerosset/FAFC-01/#2": {
-      "number": 2,
-      "author": "fabricerosset",
-      "head_branch": "wp-002-conceptual-screen",
-      "title": "WP-002/003: conceptual feasibility, evidence and development-route brief",
-      "repo": "fabricerosset/FAFC-01",
-      "created_at": "2026-10-20T12:07:12Z",
-      "url": "https://github.com/fabricerosset/FAFC-01/pull/2"
-    },
-    "fabricerosset/astranvil-games-site/#192": {
-      "number": 192,
-      "author": "fabricerosset",
-      "head_branch": "codex/ninjago-progress",
-      "title": "Prépare le point de branchement de Ninjago: Elemental Clash",
-      "repo": "fabricerosset/astranvil-games-site",
-      "created_at": "2026-11-27T13:53:06Z",
-      "url": "https://github.com/fabricerosset/astranvil-games-site/pull/192"
-    }
-  },
-  "stale_branches": {
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-quality": {
-      "number": 12,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-quality",
-      "title": "Improve AstralGainStaging gain transitions and quiet readings",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:58:09Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/12"
-    },
-    "fabricerosset/AstranvilVSTs/codex/brand-audio-installer": {
-      "number": 19,
-      "author": "fabricerosset",
-      "head_branch": "codex/brand-audio-installer",
-      "title": "Add Violet Forge artwork and the Astranvil Audio logo to Setup",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:30:24Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/19"
-    },
-    "fabricerosset/HeroQuestOnline/codex/shared-room-erasure": {
-      "number": 39,
-      "author": "fabricerosset",
-      "head_branch": "codex/shared-room-erasure",
-      "title": "Prepare shared-room handoff for account erasure",
-      "repo": "fabricerosset/HeroQuestOnline",
-      "merged_at": "2026-11-19T15:59:04Z",
-      "url": "https://github.com/fabricerosset/HeroQuestOnline/pull/39"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-manual-apply": {
-      "number": 52,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-manual-apply",
-      "title": "Make AstralGainStaging calibration fully manual",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T23:41:00Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/52"
-    },
-    "fabricerosset/AstranvilVSTs/codex/balancer-gentle-noise-gate": {
-      "number": 50,
-      "author": "fabricerosset",
-      "head_branch": "codex/balancer-gentle-noise-gate",
-      "title": "AstralBalancer 1.7.1 gentle gate learning and manual output gain",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T23:00:26Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/50"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-vst3-installer": {
-      "number": 3,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-vst3-installer",
-      "title": "Add a selectable Windows installer for Astranvil Audio VST3s",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:28:05Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/3"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-apply": {
-      "number": 8,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-auto-apply",
-      "title": "Apply AstralGainStaging calibration on transport stop",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:48:09Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/8"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-launcher-install-directory": {
-      "number": 34,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-launcher-install-directory",
-      "title": "Personnaliser le setup et la sélection des plugins du launcher",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T21:07:09Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/34"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-adaptive": {
-      "number": 37,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-adaptive",
-      "title": "AstralEQ 1.3.0 · Analyse des kicks, propositions multiples et compensation Peak",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T21:43:10Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/37"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-quality": {
-      "number": 20,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-quality",
-      "title": "Fix AstralBalancer audio, automation and recall issues found in QA",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:33:50Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/20"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-suite-workflow": {
-      "number": 42,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-suite-workflow",
-      "title": "Expand the three mixing plugins and launcher maintenance",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T15:55:38Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/42"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalance-simplify-balance": {
-      "number": 5,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalance-simplify-balance",
-      "title": "Simplify the manual stereo balance controls",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:39:06Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/5"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-calibration-145": {
-      "number": 38,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-calibration-145",
-      "title": "AstralBalancer 1.4.5 — calibration en une passe et lisibilité des crêtes",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T22:17:49Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/38"
-    },
-    "fabricerosset/app-portal/kiro/remove-dev-games": {
-      "number": 59,
-      "author": "fabricerosset",
-      "head_branch": "kiro/remove-dev-games",
-      "title": "AppsDev : retirer les jeux du registre de développement",
-      "repo": "fabricerosset/app-portal",
-      "merged_at": "2026-11-19T15:58:59Z",
-      "url": "https://github.com/fabricerosset/app-portal/pull/59"
-    },
-    "fabricerosset/AstranvilVSTs/codex/gainstaging-harmonize-editor": {
-      "number": 46,
-      "author": "fabricerosset",
-      "head_branch": "codex/gainstaging-harmonize-editor",
-      "title": "Harmonize the AstralGainStaging editor",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T20:34:47Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/46"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-guide": {
-      "number": 25,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-guide",
-      "title": "Add a French quick guide inside AstralEQ",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:56:11Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/25"
-    },
-    "fabricerosset/AstranvilVSTs/codex/rename-astralbalancer": {
-      "number": 7,
-      "author": "fabricerosset",
-      "head_branch": "codex/rename-astralbalancer",
-      "title": "Rename the dynamics plugin to AstralBalancer",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:43:41Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/7"
-    },
-    "fabricerosset/AstranvilVSTs/codex/fix-installer-runner": {
-      "number": 18,
-      "author": "fabricerosset",
-      "head_branch": "codex/fix-installer-runner",
-      "title": "Use Visual Studio 2026 for hosted installer builds",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:20:11Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/18"
-    },
-    "fabricerosset/AstranvilVSTs/codex/gainstaging-remove-ceiling": {
-      "number": 45,
-      "author": "fabricerosset",
-      "head_branch": "codex/gainstaging-remove-ceiling",
-      "title": "Remove the AstralGainStaging true-peak ceiling",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T20:09:36Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/45"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-only": {
-      "number": 40,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-auto-only",
-      "title": "AstralGainStaging 1.4.0 · mesurer uniquement en Auto",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T14:13:32Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/40"
-    },
-    "fabricerosset/AstranvilVSTs/codex/gainstaging-reference-override": {
-      "number": 49,
-      "author": "fabricerosset",
-      "head_branch": "codex/gainstaging-reference-override",
-      "title": "AstralGainStaging 1.6.5 · rétablir le choix de référence",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T22:56:38Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/49"
-    },
-    "fabricerosset/AstranvilVSTs/codex/move-vst3-installation": {
-      "number": 14,
-      "author": "fabricerosset",
-      "head_branch": "codex/move-vst3-installation",
-      "title": "Move VST3 plugins when the installer path changes",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:13:05Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/14"
-    },
-    "fabricerosset/AstranvilVSTs/codex/balancer-manual-output-reference": {
-      "number": 54,
-      "author": "fabricerosset",
-      "head_branch": "codex/balancer-manual-output-reference",
-      "title": "AstralBalancer 1.7.3 — choix manuel de la référence de sortie",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-25T00:06:22Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/54"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-reference": {
-      "number": 39,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-auto-reference",
-      "title": "AstralGainStaging 1.3.0 · ajouter la référence Auto",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T13:21:05Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/39"
-    },
-    "fabricerosset/AstranvilVSTs/codex/balancer-readable-auto-controls": {
-      "number": 48,
-      "author": "fabricerosset",
-      "head_branch": "codex/balancer-readable-auto-controls",
-      "title": "AstralBalancer 1.7.0 automatic calibration and clearer meters",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T22:51:56Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/48"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-reference-display": {
-      "number": 35,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-reference-display",
-      "title": "AstralGainStaging 1.2.2 · clarifier les mesures Max Peak et RMS",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T21:24:54Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/35"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-appsprod-launcher": {
-      "number": 32,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-appsprod-launcher",
-      "title": "Distribuer et maintenir Astranvil Audio via un launcher AppsProd",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T20:36:53Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/32"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq": {
-      "number": 17,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq",
-      "title": "Add AstralEQ with dynamic bands and harmonic auto-EQ",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:20:17Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/17"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgain-stereo-balance": {
-      "number": 2,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgain-stereo-balance",
-      "title": "Add stereo balance, comparable output meters and measured thresholds",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:22:07Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/2"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-audition": {
-      "number": 22,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-audition",
-      "title": "Add level-matched audition and intensity controls to AstralEQ",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:48:32Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/22"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-inline-bell-slope": {
-      "number": 56,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-inline-bell-slope",
-      "title": "Place the AstralEQ Bell slope selector immediately after Q",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-25T00:35:16Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/56"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-instant-save": {
-      "number": 21,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-instant-save",
-      "title": "Fix immediate project saves in AstralBalancer 1.4.2",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:42:35Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/21"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-monitoring": {
-      "number": 15,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-monitoring",
-      "title": "Add stereo listening modes and compressor gain readouts",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:18:03Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/15"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-sidechain-performance": {
-      "number": 31,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-sidechain-performance",
-      "title": "Improve AstralEQ sidechain performance and publish installer 1.7.11",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T20:00:11Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/31"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-assisted-calibration": {
-      "number": 43,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-assisted-calibration",
-      "title": "Automate plugin analysis and calibration",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T16:22:53Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/43"
-    },
-    "fabricerosset/AstranvilVSTs/codex/vst-suite-quality": {
-      "number": 55,
-      "author": "fabricerosset",
-      "head_branch": "codex/vst-suite-quality",
-      "title": "Quality and performance pass for the three VST3 plugins",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-25T00:12:52Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/55"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-launcher-quality": {
-      "number": 33,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-launcher-quality",
-      "title": "Fiabiliser les vérifications et les mises à jour du launcher Astranvil Audio",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T20:57:13Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/33"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-remove-footer": {
-      "number": 9,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-remove-footer",
-      "title": "Remove the AstralGainStaging confirmation footer",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:50:34Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/9"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-sidechain": {
-      "number": 30,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-sidechain",
-      "title": "Add frequency-selective external sidechain to AstralEQ",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T19:43:14Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/30"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-band-controls-qa": {
-      "number": 57,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-band-controls-qa",
-      "title": "Improve legibility of expanded AstralEQ band controls",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-25T00:48:18Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/57"
-    },
-    "fabricerosset/AstranvilVSTs/codex/automate-vst3-installer": {
-      "number": 16,
-      "author": "fabricerosset",
-      "head_branch": "codex/automate-vst3-installer",
-      "title": "Publish an updated Windows installer when plugins change version",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:18:40Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/16"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-smoother-spectrum": {
-      "number": 53,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-smoother-spectrum",
-      "title": "Smooth AstralEQ spectrum motion, refine atonal proposals and add Bell slopes",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T23:43:17Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/53"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-launcher-update-confirmation": {
-      "number": 36,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-launcher-update-confirmation",
-      "title": "Demander confirmation avant de mettre à jour le launcher",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T21:30:44Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/36"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-help": {
-      "number": 24,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-help",
-      "title": "Add an in-plugin guide to AstralBalancer",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:54:15Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/24"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-guided-passage": {
-      "number": 13,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-guided-passage",
-      "title": "Add guided passage calibration and matched audition to AstralBalancer",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:08:26Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/13"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgain-vst3": {
-      "number": 1,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgain-vst3",
-      "title": "Add AstralGain dynamics and fixed-gain calibration VST3",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:08:43Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/1"
-    },
-    "fabricerosset/AstranvilVSTs/codex/gainstaging-fixed-level": {
-      "number": 44,
-      "author": "fabricerosset",
-      "head_branch": "codex/gainstaging-fixed-level",
-      "title": "Fix AstralGainStaging calibration at −12 dBFS",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T20:00:25Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/44"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging": {
-      "number": 6,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging",
-      "title": "Add AstralGainStaging peak and RMS calibration VST3",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:40:36Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/6"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalancer-product-name": {
-      "number": 10,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalancer-product-name",
-      "title": "Use AstralBalancer throughout the Windows installation",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:51:43Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/10"
-    },
-    "fabricerosset/AstranvilVSTs/codex/manage-installed-vsts": {
-      "number": 11,
-      "author": "fabricerosset",
-      "head_branch": "codex/manage-installed-vsts",
-      "title": "Manage installed VST3 plugins from the setup wizard",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:56:15Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/11"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-help": {
-      "number": 23,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-help",
-      "title": "Add an in-plugin AstralGainStaging quick guide",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T10:54:12Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/23"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralbalance-fixed-stereo": {
-      "number": 4,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralbalance-fixed-stereo",
-      "title": "Rename AstralBalance and add fixed stereo correction and editable dials",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T09:35:41Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/4"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astraleq-quality": {
-      "number": 26,
-      "author": "fabricerosset",
-      "head_branch": "codex/astraleq-quality",
-      "title": "Fix AstralEQ audio continuity, note detection and session recall",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-23T11:18:25Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/26"
-    },
-    "fabricerosset/AstranvilVSTs/codex/audio-harmonize-editors": {
-      "number": 47,
-      "author": "fabricerosset",
-      "head_branch": "codex/audio-harmonize-editors",
-      "title": "Harmonize the Astranvil Audio plugin editors",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T20:57:10Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/47"
-    },
-    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-guide": {
-      "number": 41,
-      "author": "fabricerosset",
-      "head_branch": "codex/astralgainstaging-auto-guide",
-      "title": "AstralGainStaging 1.4.0 · actualiser l’aide pour Auto",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T14:18:39Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/41"
-    },
-    "fabricerosset/AstranvilVSTs/codex/balancer-integrated-output-rms": {
-      "number": 51,
-      "author": "fabricerosset",
-      "head_branch": "codex/balancer-integrated-output-rms",
-      "title": "AstralBalancer 1.7.2 integrated playback RMS verification",
-      "repo": "fabricerosset/AstranvilVSTs",
-      "merged_at": "2026-11-24T23:05:57Z",
-      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/51"
-    }
-  },
   "branches": {
-    "fabricerosset/PokeNinjaGo/codex/fix-combat-redesign-fixture": {
+    "fabricerosset/ninjago-elemental-clash/codex/nec-underground-revisits": {
+      "purpose": "Play the archive choice and Zane reunion inside the workshops",
+      "branch": "codex/nec-underground-revisits",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "purpose_source": "Open PR #20",
+      "owner": "fabricerosset"
+    },
+    "fabricerosset/PokeNinjaGo/codex/pokemon-comfyui-sprites": {
       "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/pokemon-comfyui-sprites",
       "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/fix-combat-redesign-fixture",
       "purpose_source": "Latest commit author",
       "owner": "fabricerosset"
     },
-    "fabricerosset/PokeNinjaGo/codex/m3b-online-duel": {
+    "fabricerosset/PokeNinjaGo/codex/fix-combat-redesign-fixture": {
       "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/fix-combat-redesign-fixture",
       "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/m3b-online-duel",
       "purpose_source": "Latest commit author",
       "owner": "fabricerosset"
     },
     "fabricerosset/PokeNinjaGo/codex/m2b-clean-builds": {
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/PokeNinjaGo",
       "branch": "codex/m2b-clean-builds",
-      "purpose_source": "Latest commit author",
-      "owner": "fabricerosset"
-    },
-    "fabricerosset/PokeNinjaGo/codex/pokemon-comfyui-sprites": {
-      "purpose": "No open PR; inferred from branch name",
       "repo": "fabricerosset/PokeNinjaGo",
-      "branch": "codex/pokemon-comfyui-sprites",
       "purpose_source": "Latest commit author",
-      "owner": "fabricerosset"
-    },
-    "fabricerosset/ninjago-elemental-clash/codex/nec-j4-chen-arrival": {
-      "purpose": "Add the opening Story visit, fight, and decision",
-      "repo": "fabricerosset/ninjago-elemental-clash",
-      "branch": "codex/nec-j4-chen-arrival",
-      "purpose_source": "Open PR #3",
-      "owner": "fabricerosset"
-    },
-    "fabricerosset/FAFC-01/wp-002-conceptual-screen": {
-      "purpose": "WP-002/003: conceptual feasibility, evidence and development-route brief",
-      "repo": "fabricerosset/FAFC-01",
-      "branch": "wp-002-conceptual-screen",
-      "purpose_source": "Open PR #2",
       "owner": "fabricerosset"
     },
     "fabricerosset/blssed-by-rpp-template/kiro/bc04-course-notes": {
       "purpose": "No open PR; inferred from branch name",
-      "repo": "fabricerosset/blssed-by-rpp-template",
       "branch": "kiro/bc04-course-notes",
+      "repo": "fabricerosset/blssed-by-rpp-template",
       "purpose_source": "Latest commit author",
       "owner": "fabricerosset"
     },
-    "fabricerosset/astranvil-games-site/codex/ninjago-progress": {
-      "purpose": "Prépare le point de branchement de Ninjago: Elemental Clash",
-      "repo": "fabricerosset/astranvil-games-site",
-      "branch": "codex/ninjago-progress",
-      "purpose_source": "Open PR #192",
+    "fabricerosset/astranvil-rpg/codex/v30-01-campaign-access": {
+      "purpose": "Lay groundwork for shared campaign access",
+      "branch": "codex/v30-01-campaign-access",
+      "repo": "fabricerosset/astranvil-rpg",
+      "purpose_source": "Open PR #262",
       "owner": "fabricerosset"
     },
-    "fabricerosset/ninjago-elemental-clash/codex/nec-j3-local-progress": {
-      "purpose": "Teste la persistance Histoire et IndexedDB avec Astranvil",
+    "fabricerosset/ninjago-elemental-clash/codex/nec-rig-streaming": {
+      "purpose": "Charger les pistes Web avec les combattants",
+      "branch": "codex/nec-rig-streaming",
       "repo": "fabricerosset/ninjago-elemental-clash",
-      "branch": "codex/nec-j3-local-progress",
+      "purpose_source": "Open PR #21",
+      "owner": "fabricerosset"
+    },
+    "fabricerosset/FAFC-01/wp-002-conceptual-screen": {
+      "purpose": "WP-002/003: conceptual feasibility, evidence and development-route brief",
+      "branch": "wp-002-conceptual-screen",
+      "repo": "fabricerosset/FAFC-01",
       "purpose_source": "Open PR #2",
       "owner": "fabricerosset"
+    },
+    "fabricerosset/PokeNinjaGo/codex/m3b-online-duel": {
+      "purpose": "No open PR; inferred from branch name",
+      "branch": "codex/m3b-online-duel",
+      "repo": "fabricerosset/PokeNinjaGo",
+      "purpose_source": "Latest commit author",
+      "owner": "fabricerosset"
+    }
+  },
+  "stale_branches": {
+    "fabricerosset/AstranvilVSTs/codex/balancer-readable-auto-controls": {
+      "number": 48,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/48",
+      "author": "fabricerosset",
+      "head_branch": "codex/balancer-readable-auto-controls",
+      "merged_at": "2026-11-24T22:51:56Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralBalancer 1.7.0 automatic calibration and clearer meters"
+    },
+    "fabricerosset/AstranvilVSTs/codex/automate-vst3-installer": {
+      "number": 16,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/16",
+      "author": "fabricerosset",
+      "head_branch": "codex/automate-vst3-installer",
+      "merged_at": "2026-11-23T10:18:40Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Publish an updated Windows installer when plugins change version"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-context-and-comparison": {
+      "number": 88,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/88",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-context-and-comparison",
+      "merged_at": "2026-11-28T02:26:09Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Improve vocal consonant detection and matched listening"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-help": {
+      "number": 23,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/23",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-help",
+      "merged_at": "2026-11-23T10:54:12Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add an in-plugin AstralGainStaging quick guide"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-track-history": {
+      "number": 116,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/116",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-track-history",
+      "merged_at": "2026-11-28T09:43:56Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Restore Mix track assignments and verify shared reservations"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astranvil-audio-v1.2": {
+      "number": 60,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/60",
+      "author": "fabricerosset",
+      "head_branch": "codex/astranvil-audio-v1.2",
+      "merged_at": "2026-11-27T17:53:07Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Deliver the initial Astranvil Audio V1.2 suite"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-chapter-fighters": {
+      "number": 15,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/15",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-chapter-fighters",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: animate chapter rivals and Lloyd possessed"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-j5-articulation": {
+      "number": 4,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/4",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-j5-articulation",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Prototype articulated fighter morphologies"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-launcher-install-directory": {
+      "number": 34,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/34",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-launcher-install-directory",
+      "merged_at": "2026-11-23T21:07:09Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Personnaliser le setup et la sélection des plugins du launcher"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-plan-provenance": {
+      "number": 120,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/120",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-plan-provenance",
+      "merged_at": "2026-11-28T10:12:51Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Verify Mix proposal and comparison provenance"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-shared-session-auditions": {
+      "number": 128,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/128",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-shared-session-auditions",
+      "merged_at": "2026-11-28T13:03:42Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Recover shared session results and announce Dynamics auditions"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-j4-chen-arrival": {
+      "number": 3,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/3",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-j4-chen-arrival",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Add Story opening through Clouse’s seal"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-guided-passage": {
+      "number": 13,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/13",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-guided-passage",
+      "merged_at": "2026-11-23T10:08:26Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add guided passage calibration and matched audition to AstralBalancer"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-training": {
+      "number": 5,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/5",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-training",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Add free training and a guided team tutorial"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-audio": {
+      "number": 10,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/10",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-audio",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: score the game and verify browser audio controls"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-track-table": {
+      "number": 69,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/69",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-track-table",
+      "merged_at": "2026-11-27T21:25:13Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Complete Gain-specific loudness, gate and batch acceptance"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-correction-limits": {
+      "number": 114,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/114",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-correction-limits",
+      "merged_at": "2026-11-28T09:22:12Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Separate Mix trim and EQ recommendation limits"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-quality-receipt": {
+      "number": 81,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/81",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-quality-receipt",
+      "merged_at": "2026-11-28T00:33:58Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Verify EQ proposals and handle concurrent session joins"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-remove-footer": {
+      "number": 9,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/9",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-remove-footer",
+      "merged_at": "2026-11-23T09:50:34Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Remove the AstralGainStaging confirmation footer"
+    },
+    "fabricerosset/AstranvilVSTs/codex/rename-astralbalancer": {
+      "number": 7,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/7",
+      "author": "fabricerosset",
+      "head_branch": "codex/rename-astralbalancer",
+      "merged_at": "2026-11-23T09:43:41Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Rename the dynamics plugin to AstralBalancer"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-bass-session-report": {
+      "number": 108,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/108",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-bass-session-report",
+      "merged_at": "2026-11-28T06:23:30Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Publish AstralBass branch levels and dynamics without affecting rendering"
+    },
+    "fabricerosset/AstranvilVSTs/codex/brand-audio-installer": {
+      "number": 19,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/19",
+      "author": "fabricerosset",
+      "head_branch": "codex/brand-audio-installer",
+      "merged_at": "2026-11-23T10:30:24Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add Violet Forge artwork and the Astranvil Audio logo to Setup"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-tournament-revisits": {
+      "number": 17,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/17",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-tournament-revisits",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Evolve the tournament court between chapter fights"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-mix-fir": {
+      "number": 84,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/84",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-mix-fir",
+      "merged_at": "2026-11-28T01:19:53Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Complete Dynamics compressor review and smooth static FIR changes"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-source-revision": {
+      "number": 82,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/82",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-source-revision",
+      "merged_at": "2026-11-28T00:44:30Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Invalidate EQ proposals on source replacement in REAPER"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-j5-jay": {
+      "number": 8,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/8",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-j5-jay",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Animate Jay and verify conductor ricochets"
+    },
+    "fabricerosset/AstranvilVSTs/codex/bass-passage-comparison": {
+      "number": 100,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/100",
+      "author": "fabricerosset",
+      "head_branch": "codex/bass-passage-comparison",
+      "merged_at": "2026-11-28T04:49:59Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Calibrate the Bass comparison on a shared passage"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-reaper-activation": {
+      "number": 65,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/65",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-reaper-activation",
+      "merged_at": "2026-11-27T20:18:09Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Reactivate the EQ FIR graph in REAPER"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-help": {
+      "number": 24,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/24",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-help",
+      "merged_at": "2026-11-23T10:54:15Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add an in-plugin guide to AstralBalancer"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-reference-display": {
+      "number": 35,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/35",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-reference-display",
+      "merged_at": "2026-11-23T21:24:54Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralGainStaging 1.2.2 · clarifier les mesures Max Peak et RMS"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-session-passage": {
+      "number": 76,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/76",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-session-passage",
+      "merged_at": "2026-11-27T22:55:05Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Measure recurring spectral conflicts across AstralEQ instances"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-adaptive": {
+      "number": 37,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/37",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-adaptive",
+      "merged_at": "2026-11-23T21:43:10Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralEQ 1.3.0 · Analyse des kicks, propositions multiples et compensation Peak"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-initial-fighters": {
+      "number": 12,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/12",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-initial-fighters",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: animate four starting fighter signatures"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-phase-analysis-request": {
+      "number": 106,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/106",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-phase-analysis-request",
+      "merged_at": "2026-11-28T06:09:37Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Request and confirm Phase analysis through the session"
+    },
+    "fabricerosset/app-portal/kiro/remove-dev-games": {
+      "number": 59,
+      "url": "https://github.com/fabricerosset/app-portal/pull/59",
+      "author": "fabricerosset",
+      "head_branch": "kiro/remove-dev-games",
+      "merged_at": "2026-11-19T15:58:59Z",
+      "repo": "fabricerosset/app-portal",
+      "title": "AppsDev : retirer les jeux du registre de développement"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-responsive-graph": {
+      "number": 96,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/96",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-responsive-graph",
+      "merged_at": "2026-11-28T04:05:57Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Expand the AstralEQ graph and finish suite quality checks"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-sidechain": {
+      "number": 30,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/30",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-sidechain",
+      "merged_at": "2026-11-23T19:43:14Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add frequency-selective external sidechain to AstralEQ"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-context-review": {
+      "number": 98,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/98",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-context-review",
+      "merged_at": "2026-11-28T04:37:23Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add guarded Vocal session advice review"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-suite-workflow": {
+      "number": 42,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/42",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-suite-workflow",
+      "merged_at": "2026-11-24T15:55:38Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Expand the three mixing plugins and launcher maintenance"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-editor-dpi-work-area": {
+      "number": 126,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/126",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-editor-dpi-work-area",
+      "merged_at": "2026-11-28T10:46:34Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Fit high-DPI editors to the monitor work area"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-passage-study": {
+      "number": 86,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/86",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-passage-study",
+      "merged_at": "2026-11-28T01:50:55Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Learn measured vocal passages and match the complete output chain"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-conflict-evidence": {
+      "number": 79,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/79",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-conflict-evidence",
+      "merged_at": "2026-11-27T23:47:00Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Rank EQ conflicts by instrument and align FIR band monitoring"
+    },
+    "fabricerosset/AstranvilVSTs/codex/phase-studio-aux-pdc": {
+      "number": 127,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/127",
+      "author": "fabricerosset",
+      "head_branch": "codex/phase-studio-aux-pdc",
+      "merged_at": "2026-11-28T10:59:29Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Activate Phase Studio latency in REAPER"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-j5-wu": {
+      "number": 6,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/6",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-j5-wu",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Add Master Wu staff combat and articulated transitions"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgain-stereo-balance": {
+      "number": 2,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/2",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgain-stereo-balance",
+      "merged_at": "2026-11-23T09:22:07Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add stereo balance, comparable output meters and measured thresholds"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-quality": {
+      "number": 26,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/26",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-quality",
+      "merged_at": "2026-11-23T11:18:25Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Fix AstralEQ audio continuity, note detection and session recall"
+    },
+    "fabricerosset/AstranvilVSTs/codex/master-programme-study": {
+      "number": 102,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/102",
+      "author": "fabricerosset",
+      "head_branch": "codex/master-programme-study",
+      "merged_at": "2026-11-28T05:04:59Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Expand Master study and programme analysis"
+    },
+    "fabricerosset/AstranvilVSTs/codex/phase-reference-and-comparison": {
+      "number": 99,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/99",
+      "author": "fabricerosset",
+      "head_branch": "codex/phase-reference-and-comparison",
+      "merged_at": "2026-11-28T04:44:06Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Persist Phase references and align comparison measurements"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-spectral-controls": {
+      "number": 87,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/87",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-spectral-controls",
+      "merged_at": "2026-11-28T02:07:45Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Share spectral resonance control with Astral Vocal"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-host-transactions-and-qa": {
+      "number": 103,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/103",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-host-transactions-and-qa",
+      "merged_at": "2026-11-28T05:11:40Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Guard compound edits and expand the native audio matrix"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-product-name": {
+      "number": 10,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/10",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-product-name",
+      "merged_at": "2026-11-23T09:51:43Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Use AstralBalancer throughout the Windows installation"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-session-context": {
+      "number": 91,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/91",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-session-context",
+      "merged_at": "2026-11-28T03:21:51Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Publish Vocal diagnostics and conflict advice"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-smoother-spectrum": {
+      "number": 53,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/53",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-smoother-spectrum",
+      "merged_at": "2026-11-24T23:43:17Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Smooth AstralEQ spectrum motion, refine atonal proposals and add Bell slopes"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-phase-validation-evidence": {
+      "number": 107,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/107",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-phase-validation-evidence",
+      "merged_at": "2026-11-28T06:15:59Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Persist AstralPhase evidence and verify broker-independent renders"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-audition": {
+      "number": 22,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/22",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-audition",
+      "merged_at": "2026-11-23T10:48:32Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add level-matched audition and intensity controls to AstralEQ"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-inline-bell-slope": {
+      "number": 56,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/56",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-inline-bell-slope",
+      "merged_at": "2026-11-25T00:35:16Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Place the AstralEQ Bell slope selector immediately after Q"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-topology": {
+      "number": 111,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/111",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-topology",
+      "merged_at": "2026-11-28T08:57:41Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add track priorities and confirmed lot comparisons to AstralMix"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-phase-session-report": {
+      "number": 105,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/105",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-phase-session-report",
+      "merged_at": "2026-11-28T06:02:37Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Publish actual Phase alignment and auxiliary status"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astranvil-v12-calibration": {
+      "number": 62,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/62",
+      "author": "fabricerosset",
+      "head_branch": "codex/astranvil-v12-calibration",
+      "merged_at": "2026-11-27T19:15:08Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Restore saved calibrations and activated FIR history"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-roster-progress": {
+      "number": 14,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/14",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-roster-progress",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: animate combat reactions and track roster coverage"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-common-editor-finish": {
+      "number": 97,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/97",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-common-editor-finish",
+      "merged_at": "2026-11-28T04:31:23Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add common window presets and history tooltips"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-peer-suggestions": {
+      "number": 83,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/83",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-peer-suggestions",
+      "merged_at": "2026-11-28T00:58:30Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Review cross-track EQ suggestions in the target plugin"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-guide": {
+      "number": 25,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/25",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-guide",
+      "merged_at": "2026-11-23T10:56:11Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add a French quick guide inside AstralEQ"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gainstaging-harmonize-editor": {
+      "number": 46,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/46",
+      "author": "fabricerosset",
+      "head_branch": "codex/gainstaging-harmonize-editor",
+      "merged_at": "2026-11-24T20:34:47Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Harmonize the AstralGainStaging editor"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-playback-calibration": {
+      "number": 77,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/77",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-playback-calibration",
+      "merged_at": "2026-11-27T23:03:11Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Calibrate AstralEQ on anticipative playback and protect dense chords"
+    },
+    "fabricerosset/AstranvilVSTs/codex/balancer-integrated-output-rms": {
+      "number": 51,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/51",
+      "author": "fabricerosset",
+      "head_branch": "codex/balancer-integrated-output-rms",
+      "merged_at": "2026-11-24T23:05:57Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralBalancer 1.7.2 integrated playback RMS verification"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-appsprod-launcher": {
+      "number": 32,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/32",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-appsprod-launcher",
+      "merged_at": "2026-11-23T20:36:53Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Distribuer et maintenir Astranvil Audio via un launcher AppsProd"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-vst3-installer": {
+      "number": 3,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/3",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-vst3-installer",
+      "merged_at": "2026-11-23T09:28:05Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add a selectable Windows installer for Astranvil Audio VST3s"
+    },
+    "fabricerosset/AstranvilVSTs/codex/balancer-gentle-noise-gate": {
+      "number": 50,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/50",
+      "author": "fabricerosset",
+      "head_branch": "codex/balancer-gentle-noise-gate",
+      "merged_at": "2026-11-24T23:00:26Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralBalancer 1.7.1 gentle gate learning and manual output gain"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-shared-editor-labels": {
+      "number": 129,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/129",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-shared-editor-labels",
+      "merged_at": "2026-11-28T13:09:32Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Save session labels and keep small plugin editors accessible"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-source-links": {
+      "number": 123,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/123",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-source-links",
+      "merged_at": "2026-11-28T10:27:42Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Let Mix group shared audio sources"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-master-readouts": {
+      "number": 119,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/119",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-master-readouts",
+      "merged_at": "2026-11-28T10:07:32Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Share validated Mix summaries with Master"
+    },
+    "fabricerosset/AstranvilVSTs/codex/bass-kick-study": {
+      "number": 93,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/93",
+      "author": "fabricerosset",
+      "head_branch": "codex/bass-kick-study",
+      "merged_at": "2026-11-28T03:39:32Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Learn bounded kick ducking and show bass pitch evidence"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astranvil-v12-fir-reaper": {
+      "number": 63,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/63",
+      "author": "fabricerosset",
+      "head_branch": "codex/astranvil-v12-fir-reaper",
+      "merged_at": "2026-11-27T19:24:51Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Verify saved EQ FIR latency in REAPER"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astranvil-v12-history": {
+      "number": 61,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/61",
+      "author": "fabricerosset",
+      "head_branch": "codex/astranvil-v12-history",
+      "merged_at": "2026-11-27T18:38:55Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Protect local history from newer host edits"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-calibration-dates": {
+      "number": 71,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/71",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-calibration-dates",
+      "merged_at": "2026-11-27T21:46:11Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "fix: restore Gain calibration dates and track-table history shortcuts"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalance-simplify-balance": {
+      "number": 5,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/5",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalance-simplify-balance",
+      "merged_at": "2026-11-23T09:39:06Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Simplify the manual stereo balance controls"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-band-controls-qa": {
+      "number": 57,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/57",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-band-controls-qa",
+      "merged_at": "2026-11-25T00:48:18Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Improve legibility of expanded AstralEQ band controls"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging": {
+      "number": 6,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/6",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging",
+      "merged_at": "2026-11-23T09:40:36Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add AstralGainStaging peak and RMS calibration VST3"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-assisted-calibration": {
+      "number": 43,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/43",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-assisted-calibration",
+      "merged_at": "2026-11-24T16:22:53Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Automate plugin analysis and calibration"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq-sidechain-performance": {
+      "number": 31,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/31",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq-sidechain-performance",
+      "merged_at": "2026-11-23T20:00:11Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Improve AstralEQ sidechain performance and publish installer 1.7.11"
+    },
+    "fabricerosset/AstranvilVSTs/codex/mix-session-history": {
+      "number": 94,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/94",
+      "author": "fabricerosset",
+      "head_branch": "codex/mix-session-history",
+      "merged_at": "2026-11-28T03:46:05Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Recall Mix track assignments and retain confirmed batch history"
+    },
+    "fabricerosset/AstranvilVSTs/codex/balancer-manual-output-reference": {
+      "number": 54,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/54",
+      "author": "fabricerosset",
+      "head_branch": "codex/balancer-manual-output-reference",
+      "merged_at": "2026-11-25T00:06:22Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralBalancer 1.7.3 — choix manuel de la référence de sortie"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-j3-local-progress": {
+      "number": 2,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/2",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-j3-local-progress",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Teste la persistance Histoire et IndexedDB avec Astranvil"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-fir-prepared-audition": {
+      "number": 80,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/80",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-fir-prepared-audition",
+      "merged_at": "2026-11-28T00:06:58Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Audition AstralEQ proposals at the applied FIR latency"
+    },
+    "fabricerosset/AstranvilVSTs/codex/phase-stereo-alignment": {
+      "number": 92,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/92",
+      "author": "fabricerosset",
+      "head_branch": "codex/phase-stereo-alignment",
+      "merged_at": "2026-11-28T03:33:30Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add independent Phase alignment and protected all-pass review"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-story-reward-fighters": {
+      "number": 13,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/13",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-story-reward-fighters",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: play three animated Story reward fighters"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-only": {
+      "number": 40,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/40",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-auto-only",
+      "merged_at": "2026-11-24T14:13:32Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralGainStaging 1.4.0 · mesurer uniquement en Auto"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-passage-review": {
+      "number": 89,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/89",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-passage-review",
+      "merged_at": "2026-11-28T02:47:00Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Review and simulate selected Vocal modules"
+    },
+    "fabricerosset/AstranvilVSTs/codex/master-finish": {
+      "number": 95,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/95",
+      "author": "fabricerosset",
+      "head_branch": "codex/master-finish",
+      "merged_at": "2026-11-28T03:50:52Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add undoable Master presets and editable EQ frequencies"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gainstaging-fixed-level": {
+      "number": 44,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/44",
+      "author": "fabricerosset",
+      "head_branch": "codex/gainstaging-fixed-level",
+      "merged_at": "2026-11-24T20:00:25Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Fix AstralGainStaging calibration at −12 dBFS"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-launcher-update-confirmation": {
+      "number": 36,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/36",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-launcher-update-confirmation",
+      "merged_at": "2026-11-23T21:30:44Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Demander confirmation avant de mettre à jour le launcher"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalance-fixed-stereo": {
+      "number": 4,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/4",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalance-fixed-stereo",
+      "merged_at": "2026-11-23T09:35:41Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Rename AstralBalance and add fixed stereo correction and editable dials"
+    },
+    "fabricerosset/AstranvilVSTs/codex/mix-lot-history": {
+      "number": 101,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/101",
+      "author": "fabricerosset",
+      "head_branch": "codex/mix-lot-history",
+      "merged_at": "2026-11-28T04:57:33Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Persist Mix lot reports and add track search"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-manual-apply": {
+      "number": 52,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/52",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-manual-apply",
+      "merged_at": "2026-11-24T23:41:00Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Make AstralGainStaging calibration fully manual"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-instant-save": {
+      "number": 21,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/21",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-instant-save",
+      "merged_at": "2026-11-23T10:42:35Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Fix immediate project saves in AstralBalancer 1.4.2"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-shared-level-match": {
+      "number": 130,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/130",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-shared-level-match",
+      "merged_at": "2026-11-28T13:44:03Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Calibrate the local before and after audition across the suite"
+    },
+    "fabricerosset/AstranvilVSTs/codex/mix-band-transactions": {
+      "number": 85,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/85",
+      "author": "fabricerosset",
+      "head_branch": "codex/mix-band-transactions",
+      "merged_at": "2026-11-28T01:37:22Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Apply authorized Mix corrections to EQ bands and confirm the effective FIR"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-quality": {
+      "number": 20,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/20",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-quality",
+      "merged_at": "2026-11-23T10:33:50Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Fix AstralBalancer audio, automation and recall issues found in QA"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-dialogue-history": {
+      "number": 16,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/16",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-dialogue-history",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: add adjustable dialogues and resumable history"
+    },
+    "fabricerosset/AstranvilVSTs/codex/manage-installed-vsts": {
+      "number": 11,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/11",
+      "author": "fabricerosset",
+      "head_branch": "codex/manage-installed-vsts",
+      "merged_at": "2026-11-23T09:56:15Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Manage installed VST3 plugins from the setup wizard"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-master-tonal-study": {
+      "number": 118,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/118",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-master-tonal-study",
+      "merged_at": "2026-11-28T09:58:39Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Distinguish narrow peaks in master studies"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-reference": {
+      "number": 39,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/39",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-auto-reference",
+      "merged_at": "2026-11-24T13:21:05Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralGainStaging 1.3.0 · ajouter la référence Auto"
+    },
+    "fabricerosset/AstranvilVSTs/codex/move-vst3-installation": {
+      "number": 14,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/14",
+      "author": "fabricerosset",
+      "head_branch": "codex/move-vst3-installation",
+      "merged_at": "2026-11-23T10:13:05Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Move VST3 plugins when the installer path changes"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-frozen-relearning": {
+      "number": 67,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/67",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-frozen-relearning",
+      "merged_at": "2026-11-27T20:30:56Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Hold the adaptive gate threshold during frozen relearning"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-master-upstream-study": {
+      "number": 125,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/125",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-master-upstream-study",
+      "merged_at": "2026-11-28T10:38:45Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Watch declared Master upstream revisions"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-monitoring": {
+      "number": 15,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/15",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-monitoring",
+      "merged_at": "2026-11-23T10:18:03Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add stereo listening modes and compressor gain readouts"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-reaper-session-qa": {
+      "number": 70,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/70",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-reaper-session-qa",
+      "merged_at": "2026-11-27T21:36:01Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "test: verify Gain telemetry in two REAPER processes"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astranvil-v12-dynamics-reaper": {
+      "number": 64,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/64",
+      "author": "fabricerosset",
+      "head_branch": "codex/astranvil-v12-dynamics-reaper",
+      "merged_at": "2026-11-27T20:01:20Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Restore Dynamics calibrations and guard EQ FIR activation"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgain-vst3": {
+      "number": 1,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/1",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgain-vst3",
+      "merged_at": "2026-11-23T09:08:43Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add AstralGain dynamics and fixed-gain calibration VST3"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-session-track-names": {
+      "number": 78,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/78",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-session-track-names",
+      "merged_at": "2026-11-27T23:23:39Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Identify tracks and follow host renames across AstralEQ instances"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-shared-session-diagnostics": {
+      "number": 131,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/131",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-shared-session-diagnostics",
+      "merged_at": "2026-11-28T13:51:51Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Negotiate session versions and expose command and track diagnostics"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-bass-context": {
+      "number": 109,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/109",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-bass-context",
+      "merged_at": "2026-11-28T06:29:00Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Finish AstralBass with measured conflict and kick priority advice"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-capture-recall-provenance": {
+      "number": 124,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/124",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-capture-recall-provenance",
+      "merged_at": "2026-11-28T10:31:48Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Verify comparison pre-roll and clear recalled programme proofs"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-fir-automation-qa": {
+      "number": 66,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/66",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-fir-automation-qa",
+      "merged_at": "2026-11-27T20:27:59Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Verify REAPER FIR history and adaptive gate protection"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-matrix": {
+      "number": 121,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/121",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-matrix",
+      "merged_at": "2026-11-28T10:19:11Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add the Mix conflict matrix and loop validation"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-track-metadata": {
+      "number": 113,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/113",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-track-metadata",
+      "merged_at": "2026-11-28T09:14:49Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Share host track names and channel identity in Astral sessions"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-launcher-quality": {
+      "number": 33,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/33",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-launcher-quality",
+      "merged_at": "2026-11-23T20:57:13Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Fiabiliser les vérifications et les mises à jour du launcher Astranvil Audio"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-session-audition": {
+      "number": 115,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/115",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-session-audition",
+      "merged_at": "2026-11-28T09:37:40Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Publish audition intervals and invalidate overlapping capture evidence"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-bounded-session-reconnect": {
+      "number": 104,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/104",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-bounded-session-reconnect",
+      "merged_at": "2026-11-28T05:20:45Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Restore session connectivity with a bounded retry budget"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-web-asset-groups": {
+      "number": 9,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/9",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-web-asset-groups",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "build: stream verified fighter art for Web"
+    },
+    "fabricerosset/HeroQuestOnline/codex/shared-room-erasure": {
+      "number": 39,
+      "url": "https://github.com/fabricerosset/HeroQuestOnline/pull/39",
+      "author": "fabricerosset",
+      "head_branch": "codex/shared-room-erasure",
+      "merged_at": "2026-11-19T15:59:04Z",
+      "repo": "fabricerosset/HeroQuestOnline",
+      "title": "Prepare shared-room handoff for account erasure"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astraleq": {
+      "number": 17,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/17",
+      "author": "fabricerosset",
+      "head_branch": "codex/astraleq",
+      "merged_at": "2026-11-23T10:20:17Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Add AstralEQ with dynamic bands and harmonic auto-EQ"
+    },
+    "fabricerosset/AstranvilVSTs/codex/eq-fir-accuracy": {
+      "number": 75,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/75",
+      "author": "fabricerosset",
+      "head_branch": "codex/eq-fir-accuracy",
+      "merged_at": "2026-11-27T22:37:17Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Report EQ FIR accuracy and protect rendering across seeks"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-apply": {
+      "number": 8,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/8",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-auto-apply",
+      "merged_at": "2026-11-23T09:48:09Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Apply AstralGainStaging calibration on transport stop"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-manual-gate-history": {
+      "number": 74,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/74",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-manual-gate-history",
+      "merged_at": "2026-11-27T22:24:27Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Restore Gain calibrations after manual gate edits"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-cole-zane": {
+      "number": 11,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/11",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-cole-zane",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "feat: animate Cole and Zane and verify their signatures"
+    },
+    "fabricerosset/AstranvilVSTs/codex/audio-harmonize-editors": {
+      "number": 47,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/47",
+      "author": "fabricerosset",
+      "head_branch": "codex/audio-harmonize-editors",
+      "merged_at": "2026-11-24T20:57:10Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Harmonize the Astranvil Audio plugin editors"
+    },
+    "fabricerosset/AstranvilVSTs/codex/fix-installer-runner": {
+      "number": 18,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/18",
+      "author": "fabricerosset",
+      "head_branch": "codex/fix-installer-runner",
+      "merged_at": "2026-11-23T10:20:11Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Use Visual Studio 2026 for hosted installer builds"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gainstaging-reference-override": {
+      "number": 49,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/49",
+      "author": "fabricerosset",
+      "head_branch": "codex/gainstaging-reference-override",
+      "merged_at": "2026-11-24T22:56:38Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralGainStaging 1.6.5 · rétablir le choix de référence"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-loudness-duration": {
+      "number": 68,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/68",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-loudness-duration",
+      "merged_at": "2026-11-27T20:42:38Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Verify two-hour capture, gate automation and disconnected Mix rendering"
+    },
+    "fabricerosset/ninjago-elemental-clash/codex/nec-free-selection": {
+      "number": 7,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/7",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-free-selection",
+      "merged_at": "2026-11-27T22:25:51Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Add account-aware versus and collection"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralbalancer-calibration-145": {
+      "number": 38,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/38",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralbalancer-calibration-145",
+      "merged_at": "2026-11-23T22:17:49Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralBalancer 1.4.5 — calibration en une passe et lisibilité des crêtes"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-idle-editor-rendering": {
+      "number": 132,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/132",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-idle-editor-rendering",
+      "merged_at": "2026-11-28T14:00:49Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Skip idle repaints while keeping plugin views responsive"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-master-verified-levels": {
+      "number": 122,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/122",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-master-verified-levels",
+      "merged_at": "2026-11-28T10:22:56Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Keep Master meters live after programme verification"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-learned-gate-history": {
+      "number": 73,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/73",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-learned-gate-history",
+      "merged_at": "2026-11-27T22:10:24Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "feat: restore learned Gain gate profiles and their calibrations"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-quality": {
+      "number": 12,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/12",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-quality",
+      "merged_at": "2026-11-23T09:58:09Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Improve AstralGainStaging gain transitions and quiet readings"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-complete-dynamics": {
+      "number": 110,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/110",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-complete-dynamics",
+      "merged_at": "2026-11-28T06:53:20Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Complete AstralDynamics calibration, layout and compression exchange"
+    },
+    "fabricerosset/AstranvilVSTs/codex/astralgainstaging-auto-guide": {
+      "number": 41,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/41",
+      "author": "fabricerosset",
+      "head_branch": "codex/astralgainstaging-auto-guide",
+      "merged_at": "2026-11-24T14:18:39Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "AstralGainStaging 1.4.0 · actualiser l’aide pour Auto"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-master-finishing": {
+      "number": 112,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/112",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-master-finishing",
+      "merged_at": "2026-11-28T09:07:18Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Qualify Master loudness range and share read-only chain reports"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vocal-plosive-protection": {
+      "number": 90,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/90",
+      "author": "fabricerosset",
+      "head_branch": "codex/vocal-plosive-protection",
+      "merged_at": "2026-11-28T03:01:48Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Protect vocal plosives and expose shared gain limits"
+    },
+    "fabricerosset/AstranvilVSTs/codex/vst-suite-quality": {
+      "number": 55,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/55",
+      "author": "fabricerosset",
+      "head_branch": "codex/vst-suite-quality",
+      "merged_at": "2026-11-25T00:12:52Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Quality and performance pass for the three VST3 plugins"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gain-prefetch-telemetry": {
+      "number": 72,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/72",
+      "author": "fabricerosset",
+      "head_branch": "codex/gain-prefetch-telemetry",
+      "merged_at": "2026-11-27T21:53:50Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "fix: report Gain levels during REAPER anticipative playback"
+    },
+    "fabricerosset/AstranvilVSTs/codex/gainstaging-remove-ceiling": {
+      "number": 45,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/45",
+      "author": "fabricerosset",
+      "head_branch": "codex/gainstaging-remove-ceiling",
+      "merged_at": "2026-11-24T20:09:36Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Remove the AstralGainStaging true-peak ceiling"
+    },
+    "fabricerosset/AstranvilVSTs/codex/v12-mix-bus-diagnostics": {
+      "number": 117,
+      "url": "https://github.com/fabricerosset/AstranvilVSTs/pull/117",
+      "author": "fabricerosset",
+      "head_branch": "codex/v12-mix-bus-diagnostics",
+      "merged_at": "2026-11-28T09:49:22Z",
+      "repo": "fabricerosset/AstranvilVSTs",
+      "title": "Diagnose Mix bus accumulation and verify partial broker loss"
+    }
+  },
+  "prs": {
+    "fabricerosset/astranvil-rpg/#262": {
+      "number": 262,
+      "url": "https://github.com/fabricerosset/astranvil-rpg/pull/262",
+      "author": "fabricerosset",
+      "head_branch": "codex/v30-01-campaign-access",
+      "created_at": "2026-11-28T14:01:32Z",
+      "repo": "fabricerosset/astranvil-rpg",
+      "title": "Lay groundwork for shared campaign access"
+    },
+    "fabricerosset/ninjago-elemental-clash/#21": {
+      "number": 21,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/21",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-rig-streaming",
+      "created_at": "2026-11-28T14:07:07Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Charger les pistes Web avec les combattants"
+    },
+    "fabricerosset/ninjago-elemental-clash/#20": {
+      "number": 20,
+      "url": "https://github.com/fabricerosset/ninjago-elemental-clash/pull/20",
+      "author": "fabricerosset",
+      "head_branch": "codex/nec-underground-revisits",
+      "created_at": "2026-11-28T14:02:55Z",
+      "repo": "fabricerosset/ninjago-elemental-clash",
+      "title": "Play the archive choice and Zane reunion inside the workshops"
+    },
+    "fabricerosset/FAFC-01/#2": {
+      "number": 2,
+      "url": "https://github.com/fabricerosset/FAFC-01/pull/2",
+      "author": "fabricerosset",
+      "head_branch": "wp-002-conceptual-screen",
+      "created_at": "2026-10-20T12:07:12Z",
+      "repo": "fabricerosset/FAFC-01",
+      "title": "WP-002/003: conceptual feasibility, evidence and development-route brief"
     }
   }
 }
